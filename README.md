@@ -1,6 +1,9 @@
 #include <stdio.h>
-main()
+int main()
 {
+char yourname[100]
+printff("What is your name \t");
+scanf("%s",yourname);
+printf("hello,%s\n",yourname);
 
-printf ("hello,[Nawapon]\n"); 
 }
